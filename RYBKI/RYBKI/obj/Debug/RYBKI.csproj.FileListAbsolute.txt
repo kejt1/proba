@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\RYBKI\RYBKI\bin\Debug\RYBKI.exe.config
+C:\Users\ASUS\Desktop\RYBKI\RYBKI\bin\Debug\RYBKI.exe
+C:\Users\ASUS\Desktop\RYBKI\RYBKI\bin\Debug\RYBKI.pdb
+C:\Users\ASUS\Desktop\RYBKI\RYBKI\obj\Debug\RYBKI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\RYBKI\RYBKI\obj\Debug\RYBKI.exe
+C:\Users\ASUS\Desktop\RYBKI\RYBKI\obj\Debug\RYBKI.pdb
